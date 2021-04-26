@@ -8,20 +8,7 @@
 
 ---
 ### Connect with me:
-
-partnerMailto : Mailto
-partnerMailto =
-    mailto "partner@test.mail"
-        |> subject "I want to cook you dinner"
-        |> cc [ "cc@test.mail", "mutualfriend@test.mail" ]
-        |> bcc [ "secretfriend@test.mail" ]
-        |> body "I’ll be making a spicy, Isaan nam dtok muu salad (น้ำตกหมู)."
-
-view : Html msg
-view =
-    a
-        [ toHref partnerMailto ]
-        [ text "🐷🌶️🥬🍚" ]
+[mailto](mailto)
 
 - tootegozy@gmail.com
 - [<img align="left" alt="VScode" width="60px" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png">](https://www.linkedin.com/in/toot-egozy-b1971920b/)
