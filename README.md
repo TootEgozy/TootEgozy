@@ -8,6 +8,7 @@
 
 ---
 ### Connect with me:
+-[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 - tootegozy@gmail.com
 - [<img align="left" alt="VScode" width="60px" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png">](https://www.linkedin.com/in/toot-egozy-b1971920b/)
@@ -42,5 +43,5 @@
 
 ### Recent Projects:
 
-My first react project
-[Basic React to-d-list](https://condescending-lumiere-156838.netlify.app/)
+My first react project: 
+[Basic React to-do-list](https://condescending-lumiere-156838.netlify.app/)
