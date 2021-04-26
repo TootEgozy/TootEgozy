@@ -9,14 +9,11 @@
 ### Connect with me:
 
 - tootegozy@gmail.com
-- [!linkedinprofile][(https://www.pngfind.com/pngs/m/78-780296_linkedin-logo-png-view-my-linked-in-profile.png)]
+- [<img align="left" alt="VScode" width="26px" src="https://www.pngfind.com/pngs/m/78-780296_linkedin-logo-png-view-my-linked-in-profile.png">](https://www.linkedin.com/in/toot-egozy-b1971920b/)
   <br />
 
 ### Languages and Tools:
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
-
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
 [<img align="left" alt="VScode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">](https://code.visualstudio.com/)
 
