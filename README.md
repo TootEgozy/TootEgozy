@@ -8,9 +8,8 @@
 
 ---
 ### Connect with me:
-[mailto](mailto:tootegozy@gmail.com)
 
-- tootegozy@gmail.com
+- <img align="left" alt="VScode" width="30px src="https://i.pinimg.com/736x/ca/27/f6/ca27f615c790f1af43f2dd564599bf6a.jpg">tootegozy@gmail.com
 - [<img align="left" alt="VScode" width="60px" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png">](https://www.linkedin.com/in/toot-egozy-b1971920b/)
 
 ---
