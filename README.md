@@ -5,13 +5,16 @@
 - :apple: I'm currently finishing the Appleseeds academy fullstack bootcamp
 - :inbox_tray: I'm creating and uploading various projects
 - :telescope: Looking to collaborate with other content creators
+<br>
 
+---
 ### Connect with me:
 
 - tootegozy@gmail.com
 - [<img align="left" alt="VScode" width="60px" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png">](https://www.linkedin.com/in/toot-egozy-b1971920b/)
   <br />
-
+<br>
+---
 ### Languages and Tools:
 
 
@@ -29,9 +32,9 @@
 
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">](https://www.mongodb.com/)
 
-[<img align="left" alt="Atlas MongoDB" width="26px" src="https://webassets.mongodb.com/_com_assets/cms/mongodb_atlas-h0ai1yctwo.svg">](https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_emea_israel_search_core_brand_atlas_desktop&utm_term=atlas%20mongo&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624530&gclid=cj0kcqjwyzmebhcparisalizmnk-i3suatl_s02isgkvpmdludslc5nqcmweallumucrant8peyr7suaar99ealw_wcb)
+[<img align="left" alt="Atlas MongoDB" width="60px" src="https://webassets.mongodb.com/_com_assets/cms/mongodb_atlas-h0ai1yctwo.svg">](https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_emea_israel_search_core_brand_atlas_desktop&utm_term=atlas%20mongo&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624530&gclid=cj0kcqjwyzmebhcparisalizmnk-i3suatl_s02isgkvpmdludslc5nqcmweallumucrant8peyr7suaar99ealw_wcb)
 
-[<img align="left" alt="npm" width="26px" src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png">] (https://www.npmjs.com/)
+[<img align="left" alt="npm" width="26px" src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png">](https://www.npmjs.com/)
 
 <br />
 <br />
