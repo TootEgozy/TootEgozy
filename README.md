@@ -10,7 +10,7 @@
 ### Connect with me:
 
 - tootegozy@gmail.com
-- [<img align="left" alt="VScode" width="70px" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png">](https://www.linkedin.com/in/toot-egozy-b1971920b/)
+- [<img align="left" alt="VScode" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/1024px-LinkedIn_Logo_2013.svg.png">](https://www.linkedin.com/in/toot-egozy-b1971920b/)
 
 ---
 
