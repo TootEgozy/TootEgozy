@@ -9,7 +9,7 @@
 ---
 ### Connect with me:
 
-- [<img align="left" alt="VScode" width="30px src="https://i.pinimg.com/736x/ca/27/f6/ca27f615c790f1af43f2dd564599bf6a.jpg">] tootegozy@gmail.com
+- tootegozy@gmail.com
 - [<img align="left" alt="VScode" width="60px" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png">](https://www.linkedin.com/in/toot-egozy-b1971920b/)
 
 ---
@@ -31,7 +31,7 @@
 
 [<img align="left" alt="MongoDB" width="26px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">](https://www.mongodb.com/)
 
-[<img align="left" alt="Atlas MongoDB" width="60px" src="https://www.altoros.com/blog/wp-content/uploads/2020/12/MongoDB-Atlas-logo-transparent.png">](https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_emea_israel_search_core_brand_atlas_desktop&utm_term=atlas%20mongo&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624530&gclid=cj0kcqjwyzmebhcparisalizmnk-i3suatl_s02isgkvpmdludslc5nqcmweallumucrant8peyr7suaar99ealw_wcb)
+[<img align="left" alt="Atlas MongoDB" width="60px" src="https://www.jsonar.com/static/eed1fc2ae341a536cfc1c60caeae7b6d/a4486/mongodb%402x.png">](https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_emea_israel_search_core_brand_atlas_desktop&utm_term=atlas%20mongo&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624530&gclid=cj0kcqjwyzmebhcparisalizmnk-i3suatl_s02isgkvpmdludslc5nqcmweallumucrant8peyr7suaar99ealw_wcb)
 
 [<img align="left" alt="npm" width="50px" src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png">](https://www.npmjs.com/)
 
