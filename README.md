@@ -9,7 +9,7 @@
 ### Connect with me:
 
 - tootegozy@gmail.com
-- [![linkedinprofile][(https://www.pngfind.com/pngs/m/78-780296_linkedin-logo-png-view-my-linked-in-profile.png)]
+- [!linkedinprofile][(https://www.pngfind.com/pngs/m/78-780296_linkedin-logo-png-view-my-linked-in-profile.png)]
   <br />
 
 ### Languages and Tools:
