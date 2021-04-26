@@ -6,9 +6,6 @@
 - :inbox_tray: I'm creating and uploading various projects
 - :telescope: Looking to collaborate with other content creators
 
-<br />
-<br />
-
 ---
 ### Connect with me:
 
