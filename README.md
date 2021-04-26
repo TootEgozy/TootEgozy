@@ -6,15 +6,17 @@
 - :inbox_tray: I'm creating and uploading various projects
 - :telescope: Looking to collaborate with other content creators
 <br>
-
 ---
 ### Connect with me:
 
 - tootegozy@gmail.com
 - [<img align="left" alt="VScode" width="60px" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png">](https://www.linkedin.com/in/toot-egozy-b1971920b/)
-  <br />
+
 <br>
 ---
+
+---
+
 ### Languages and Tools:
 
 
