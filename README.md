@@ -45,3 +45,10 @@
 
 My first react project: 
 [Basic React to-do-list](https://condescending-lumiere-156838.netlify.app/)
+[Source Code](https://github.com/TootEgozy/React-To-Do-List)
+
+
+Basic JS memory cards game: 
+[Memory Cards](https://clever-heyrovsky-61259a.netlify.app/)
+[Source Code](https://github.com/TootEgozy/Memory-Cards)
+
