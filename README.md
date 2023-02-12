@@ -1,40 +1,47 @@
-## Hi there, I'm Toot. Welcome To my Github :smile_cat:
+## Hi there, Welcome To my Github 😄
 
-#### I'm a junior fullstack developer, a reader & a science enthusiast :milky_way:
-
-- :apple: I'm currently finishing the Appleseeds academy fullstack bootcamp
-- :inbox_tray: I'm creating and uploading various projects
-- :telescope: Looking to collaborate with other content creators
-
+#### I'm a Backend developer, a reader & a science enthusiast :milky_way:
+After finishing a fullstack boothcamp, I worked as a backend developer in a company specializing in teleoperation. <br />
+Now, with 1.5 years of experiance, I'm looking for my next challenge.
+- I'm Proficient with NodeJS (promises, streams, fs), Typescript, Express, MongoDB & Mongoose, Redis, and Lua. 
+- I have experiance working in a Linux environment, developing microservices using Docker, Integration & unit testing, and a CI/CD workflow using Git.
+- I enjoy reading documentation 😎 resurch, and learning.
 ---
 ### Connect with me:
 
 - tootegozy@gmail.com
-- [<img align="left" alt="VScode" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/1024px-LinkedIn_Logo_2013.svg.png">](https://www.linkedin.com/in/toot-egozy-b1971920b/)
+- [<img align="left" alt="LinkedIn" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/1024px-LinkedIn_Logo_2013.svg.png">](https://www.linkedin.com/in/toot-egozy-b1971920b/)
 
 ---
 
 ### Languages and Tools:
 
 
+[<img align="left" alt="Webstrom" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/768px-WebStorm_Icon.svg.png?20210315203338">](https://www.jetbrains.com/webstorm/)
 
-[<img align="left" alt="VScode" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">](https://code.visualstudio.com/)
+[<img align="left" alt="Linux" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/250px-Tux.svg.png">](https://www.linux.org/)
 
-[<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">](https://developer.mozilla.org/he/docs/web/guide/html/html5)
-
-[<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">](https://developer.mozilla.org/he/docs/web/css)
+[<img align="left" alt="Redis" width="35px" src="https://avatars.githubusercontent.com/u/1529926?s=280&v=4">](https://redis.io/)
 
 [<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">](https://javascript.info/intro)
 
-[<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">](https://reactjs.org/)
+[<img align="left" alt="Typescript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">](https://www.typescriptlang.org/)
 
-[<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">](https://nodejs.org/en/)
+[<img align="left" alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">](https://nodejs.org/en/)
 
 [<img align="left" alt="MongoDB" width="35px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">](https://www.mongodb.com/)
 
-[<img align="left" alt="Atlas MongoDB" width="35px" src="https://www.jsonar.com/static/eed1fc2ae341a536cfc1c60caeae7b6d/a4486/mongodb%402x.png">](https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_emea_israel_search_core_brand_atlas_desktop&utm_term=atlas%20mongo&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624530&gclid=cj0kcqjwyzmebhcparisalizmnk-i3suatl_s02isgkvpmdludslc5nqcmweallumucrant8peyr7suaar99ealw_wcb)
-
 [<img align="left" alt="npm" width="50px" src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png">](https://www.npmjs.com/)
+
+[<img align="left" alt="Lua" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">](https://www.lua.org/)
+
+[<img align="left" alt="GitLab" width="50px" src="https://about.gitlab.com/images/press/press-kit-icon.svg">](https://about.gitlab.com/)
+
+[<img align="left" alt="Docker" width="50px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">](https://www.docker.com/)
+
+[<img align="left" alt="Mocha" width="50px" src="https://cdn.cdnlogo.com/logos/m/95/mocha.svg">](https://mochajs.org/)
+
+[<img align="left" alt="ChaiJS" width="50px" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4">](https://www.chaijs.com/)
 
 <br />
 <br />
