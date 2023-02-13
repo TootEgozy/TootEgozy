@@ -1,11 +1,11 @@
 ## Hi there, Welcome To my Github 😄
 
 #### I'm a Backend developer, a reader & a science enthusiast :milky_way:
-After finishing a fullstack boothcamp, I worked as a backend developer in a company specializing in teleoperation. <br />
-Now, with 1.5 years of experiance, I'm looking for my next challenge.
+After finishing a fullstack bootcamp, I worked as a backend developer in a company specializing in teleoperation. <br />
+Now, with 1.5 years of experience, I'm looking for my next challenge.
 - I'm Proficient with NodeJS (promises, streams, fs), Typescript, Express, MongoDB & Mongoose, Redis, and Lua. 
-- I have experiance working in a Linux environment, developing microservices using Docker, Integration & unit testing, and a CI/CD workflow using Git.
-- I enjoy reading documentation 😎 resurch, and learning.
+- I have experience working in a Linux environment, developing microservices using Docker, Integration & unit testing, and a CI/CD workflow using Git.
+- I enjoy reading documentation 😎 research, and learning.
 ---
 ### Connect with me:
 
