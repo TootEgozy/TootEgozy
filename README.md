@@ -2,7 +2,7 @@
 
 #### I'm a Backend developer, a reader & a science enthusiast :milky_way:
 After finishing a fullstack bootcamp, I worked as a backend developer in a company specializing in teleoperation. <br />
-Now, with 1.5 years of experience, I'm looking for my next challenge.
+Now I'm looking for my next challenge.
 - I'm Proficient with NodeJS (promises, streams, fs), Typescript, Express, MongoDB & Mongoose, Redis, and Lua. 
 - I have experience working in a Linux environment, developing microservices using Docker, Integration & unit testing, and a CI/CD workflow using Git.
 - I enjoy reading documentation 😎 research, and learning.
@@ -50,13 +50,20 @@ Now, with 1.5 years of experience, I'm looking for my next challenge.
 
 ### Recent Projects:
 
-#### My first react project: 
+#### Tapastry Master 
+###### Draw something on a canvas and get instructions for a real tapastry project (WIP): 
+[Tapastry Master ](https://tapastry-master-js.netlify.app)
+/
+[ Source Code ](https://github.com/TootEgozy/tapastry-master-html)
+
+### Old Projects:
+
+#### React TODO list: 
 [Basic React to-do-list ](https://condescending-lumiere-156838.netlify.app/)
 /
 [ Source Code](https://github.com/TootEgozy/React-To-Do-List)
 
-
-#### Basic JS memory cards game: 
+#### JS memory cards game: 
 [Memory Cards ](https://clever-heyrovsky-61259a.netlify.app/)
 /
 [ Source Code](https://github.com/TootEgozy/Memory-Cards)
