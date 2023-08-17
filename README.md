@@ -56,6 +56,10 @@ Now I'm looking for my next challenge.
 /
 [ Source Code ](https://github.com/TootEgozy/tapastry-master-html)
 
+#### Leet Code Exercises
+###### Solving riddles just for fun 
+[Leet Code Exercises](https://github.com/TootEgozy/Leet-Code-Exercises)
+
 ### Old Projects:
 
 #### React TODO list: 
