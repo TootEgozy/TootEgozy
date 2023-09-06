@@ -1,11 +1,12 @@
 ## Hi there, Welcome To my Github 😄
 
-#### I'm a Backend developer, a reader & a science enthusiast :milky_way:
-After finishing a fullstack bootcamp, I worked as a backend developer in a company specializing in teleoperation. <br />
-Now I'm looking for my next challenge.
-- I'm Proficient with NodeJS (promises, streams, fs), Typescript, Express, MongoDB & Mongoose, Redis, and Lua. 
-- I have experience working in a Linux environment, developing microservices using Docker, Integration & unit testing, and a CI/CD workflow using Git.
-- I enjoy reading documentation 😎 research, and learning.
+I'm a software developer with a proficiency in NodeJS, Typescript, Express, React, Vue, MongoDB & Mongoose, Redis, and Lua. <br />
+On my free time I like to grow vegtebles, read about new science and technologies and travel. <br />
+I'm actively seeking job opportunities and open to collaborative projects. <br />
+While my GitHub contribution graph doesn't fully capute my daily coding activities, a quick look at my activity log will provide a more accurate picture. Feel free to explore and connect 🦡	 <br />
+
+
+
 ---
 ### Connect with me:
 
