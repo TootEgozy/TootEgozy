@@ -17,11 +17,17 @@ While my GitHub contribution graph doesn't fully capute my daily coding activiti
 
 ### Languages and Tools:
 
+[<img align="left" alt="Linux" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/250px-Tux.svg.png">](https://www.linux.org/)
+
 [<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">](https://javascript.info/intro)
 
 [<img align="left" alt="Typescript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">](https://www.typescriptlang.org/)
 
 [<img align="left" alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">](https://nodejs.org/en/)
+
+[<img align="left" alt="NodeJS" width="35px" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem-700x626.png">](https://react.dev/)
+
+[<img align="left" alt="NodeJS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">](https://vuejs.org/)
 
 [<img align="left" alt="Lua" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">](https://www.lua.org/)
 
@@ -31,6 +37,8 @@ While my GitHub contribution graph doesn't fully capute my daily coding activiti
 
 [<img align="left" alt="Docker" width="50px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">](https://www.docker.com/)
 
+[<img align="left" alt="Docker" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg">](https://kubernetes.io/)
+
 [<img align="left" alt="Mocha" width="50px" src="https://cdn.cdnlogo.com/logos/m/95/mocha.svg">](https://mochajs.org/)
 
 [<img align="left" alt="ChaiJS" width="50px" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4">](https://www.chaijs.com/)
@@ -38,8 +46,6 @@ While my GitHub contribution graph doesn't fully capute my daily coding activiti
 [<img align="left" alt="npm" width="50px" src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png">](https://www.npmjs.com/)
 
 [<img align="left" alt="GitLab" width="50px" src="https://about.gitlab.com/images/press/press-kit-icon.svg">](https://about.gitlab.com/)
-
-[<img align="left" alt="Linux" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/250px-Tux.svg.png">](https://www.linux.org/)
 
 [<img align="left" alt="Webstrom" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/768px-WebStorm_Icon.svg.png?20210315203338">](https://www.jetbrains.com/webstorm/)
 
