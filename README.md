@@ -2,8 +2,7 @@
 
 I'm a software developer with a proficiency in nodejs, python, typescript, react, vue, mongoDB & mongoose, redis and lua. <br />
 On my free time I like to grow vegtebles, read about new science and technologies and travel. <br />
-I'm actively seeking job opportunities and open to collaborative projects. <br />
-While my GitHub contribution graph doesn't fully capute my daily coding activities, a quick look at my activity log will provide a more accurate picture. Feel free to explore and connect 🦡	 <br />
+Feel free to explore and connect 🦡	 <br />
 
 
 
