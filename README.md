@@ -28,6 +28,8 @@ Feel free to explore /ᐠ. ̫ .ᐟ\ฅ  <br />
 
 [<img align="left" alt="NodeJS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">](https://vuejs.org/)
 
+[<img align="left" alt="Python" width="30px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png">](https://www.python.org/)
+
 [<img align="left" alt="Lua" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">](https://www.lua.org/)
 
 [<img align="left" alt="Redis" width="30px" src="https://avatars.githubusercontent.com/u/1529926?s=280&v=4">](https://redis.io/)
