@@ -44,8 +44,6 @@ Feel free to explore /ᐠ. ̫ .ᐟ\ฅ  <br />
 
 [<img align="left" alt="ChaiJS" width="30px" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4">](https://www.chaijs.com/)
 
-[<img align="left" alt="npm" width="30px" src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png">](https://www.npmjs.com/)
-
 [<img align="left" alt="GitLab" width="30px" src="https://about.gitlab.com/images/press/press-kit-icon.svg">](https://about.gitlab.com/)
 
 [<img align="left" alt="Webstrom" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/768px-WebStorm_Icon.svg.png?20210315203338">](https://www.jetbrains.com/webstorm/)
