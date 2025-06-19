@@ -1,8 +1,8 @@
-## Hi there, Welcome To my Github 😄
+## Hi there, Welcome To my Github 
 
-I'm a software developer with a proficiency in nodejs, python, typescript, react, vue, mongoDB & mongoose, redis and lua. <br />
-On my free time I like to grow vegtebles, read about new science and technologies and travel. <br />
-Feel free to explore /ᐠ. ̫ .ᐟ\ฅ  <br />
+I code with Node.js, Python, TypeScript, Vue, and use MongoDB, Redis, Lua, AI, and ML, and keep learning as I go. <br />
+On my free time I grow vegtebles and flowers, read about new science and technologies, and being outdoors. <br />
+Feel free to explore, and check out my recent projects. <br />
 
 
 
