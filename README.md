@@ -1,6 +1,6 @@
 ## Hi there, Welcome To my Github 
 
-I code with Node.js, Python, TypeScript, Vue, and use MongoDB, Redis, Lua, AI, and ML, and keep learning as I go. <br />
+I code with Node.js, Python, TypeScript, Vue, and use Linux, MongoDB, Redis, Lua, AI, and ML, and keep learning as I go. <br />
 On my free time I grow vegtebles and flowers, read about new science and technologies, and being outdoors. <br />
 Feel free to explore, and check out my recent projects. <br />
 
