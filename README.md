@@ -1,10 +1,10 @@
-## Hi there, Welcome Aboard 
+## Hi there, welcome aboard!
 
-Nice to have you here, feel free to explore. <br>
-I’m a developer with a background in robotics and science. I enjoy building digital and physical things and learning by doing. <br>
-My main stack includes Node.js, TypeScript, Python, Linux, and some machine learning/AI. Outside of code, I’m into DIY projects, art, 3D printing, and spending time outdoors. <br><br>
+I’m a software developer with a background in robotics and science, and like building digital and physical things. <br>
+My stack includes Node.js, TypeScript, Python, Linux, and AI/ML.<br>
+Offline, I’m into DIY projects, art, 3D printing, growing vegetables and being outdoors. <br>
 
-Check out my recent projects below:
+Thanks for stopping by, feel free to look around 🦭
 
 ---
 
