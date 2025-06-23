@@ -1,8 +1,10 @@
-## Hi there, Welcome To my Github 
+## Hi there, Welcome Aboard 
 
-I code with Node.js, Python, TypeScript, Vue, and use Linux, MongoDB, Redis, Lua, AI, and ML, and keep learning as I go. <br />
-On my free time I grow vegtebles and flowers, read about new science and technologies, and being outdoors. <br />
-Feel free to explore, and check out my recent projects. <br />
+Nice to have you here, feel free to explore. <br>
+I’m a developer with a background in robotics and science. I enjoy building digital and physical things and learning by doing. <br>
+My main stack includes Node.js, TypeScript, Python, Linux, and some machine learning/AI. Outside of code, I’m into DIY projects, art, 3D printing, and spending time outdoors. <br><br>
+
+Check out my recent projects below:
 
 ---
 
