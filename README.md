@@ -19,9 +19,9 @@ Thanks for stopping by, feel free to look around 🦭
 
 #### Tapastry Master (WIP)
 ###### Draw something on a canvas and get instructions for a real tapastry project (WIP): 
-[Tapastry Master ](https://tapastry-master-js.netlify.app)
+[Tapastry Master ](https://tapestrymaster.netlify.app/)
 |
-[ Source Code ](https://github.com/TootEgozy/tapastry-master-html)
+[ Source Code ](https://github.com/TootEgozy/tapestrymaster)
 
 #### Leet Code Exercises
 ###### Solving riddles just for fun 
