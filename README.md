@@ -11,7 +11,7 @@ Thanks for stopping by, feel free to look around 🦭
 ### Recent Projects:
 
 #### Classifier
-###### "Fun ML project for text classification. Enter text to detect spam or determine if the sentiment is positive or negative:
+###### Fun ML project for text classification. Enter text to detect spam or determine if the sentiment is positive or negative:
 [Classifier ](https://bow-classifier.netlify.app/)
 |
 [ Source Code ](https://github.com/TootEgozy/bow_classifier.git)
