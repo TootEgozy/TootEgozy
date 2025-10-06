@@ -17,9 +17,9 @@ Thanks for stopping by, feel free to look around 🦭
 [ Source Code ](https://github.com/TootEgozy/bow_classifier.git)
 
 
-#### Tapastry Master (WIP)
+#### Tapastry Studio (WIP)
 ###### Draw something on a canvas and get instructions for a real tapastry project (WIP): 
-[Tapastry Master ](https://tapestrymaster.netlify.app/)
+[Tapastry Studio ](https://tapestrymaster.netlify.app/)
 |
 [ Source Code ](https://github.com/TootEgozy/tapestrymaster)
 
