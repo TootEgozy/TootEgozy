@@ -19,7 +19,7 @@ Thanks for stopping by, feel free to look around 🦭
 
 #### Tapastry Studio (WIP)
 ###### Draw something on a canvas and get instructions for a real tapastry project (WIP): 
-[Tapastry Studio ](https://tapestrymaster.netlify.app/)
+[Tapastry Studio ](https://tapestry-studio.netlify.app/)
 |
 [ Source Code ](https://github.com/TootEgozy/tapestrymaster)
 
