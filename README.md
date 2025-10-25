@@ -1,6 +1,6 @@
 ## Hi there, welcome aboard!
 
-I’m a software developer with a background in robotics and science, and like building digital and physical things. <br>
+I’m a software developer with a background in robotics and science. I like building digital and physical things. <br>
 My stack includes Node.js, TypeScript, Python, Linux, and AI/ML.<br>
 Offline, I’m into DIY projects, art, 3D printing, growing vegetables and being outdoors. <br>
 
