@@ -73,8 +73,6 @@ Thanks for stopping by, feel free to look around 🦭
 
 [<img align="left" alt="GitLab" width="20px" src="https://about.gitlab.com/images/press/press-kit-icon.svg">](https://about.gitlab.com/)
 
-[<img align="left" alt="Webstrom" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/768px-WebStorm_Icon.svg.png?20210315203338">](https://www.jetbrains.com/webstorm/)
-
 
 <br />
 <br />
