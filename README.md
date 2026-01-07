@@ -1,7 +1,7 @@
-## Hi there, welcome aboard!
+## Hi there
 
 I’m a software developer with a background in robotics and science. I like building digital and physical things. <br>
-My stack includes Node.js, TypeScript, Python, Linux, and AI/ML.<br>
+My stack includes Node.js, Python, TypeScript, Linux AI and ML.<br>
 Offline, I’m into DIY projects, art, 3D printing, growing vegetables and being outdoors. <br>
 
 Thanks for stopping by, feel free to look around 🦭
