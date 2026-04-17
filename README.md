@@ -4,7 +4,7 @@ I’m a software developer with a background in robotics and science. I like bui
 My stack includes Python, NodeJS, TypeScript, Linux AI and ML.<br>
 Offline, I’m into DIY projects, art, 3D printing, growing vegetables and being outdoors. <br>
 
-Thanks for stopping by, feel free to look around 🦭
+Thanks for stopping by, feel free to look around
 
 ---
 
