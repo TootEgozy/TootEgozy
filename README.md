@@ -47,7 +47,7 @@ Thanks for stopping by, feel free to look around
 
 [<img align="left" alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">](https://javascript.info/intro)
 
-[<img align="left" alt="Typescript" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">](https://www.typescriptlang.org/)
+[<img align="left" alt="Typescript" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20221110153201">](https://www.typescriptlang.org/)
 
 [<img align="left" alt="NodeJS" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">](https://nodejs.org/en/)
 
@@ -57,7 +57,7 @@ Thanks for stopping by, feel free to look around
 
 [<img align="left" alt="Python" width="20px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png">](https://www.python.org/)
 
-[<img align="left" alt="Lua" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">](https://www.lua.org/)
+[<img align="left" alt="Lua" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/960px-Lua-Logo.svg.png">](https://www.lua.org/)
 
 [<img align="left" alt="Redis" width="20px" src="https://avatars.githubusercontent.com/u/1529926?s=280&v=4">](https://redis.io/)
 
