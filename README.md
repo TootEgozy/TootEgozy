@@ -79,7 +79,7 @@ Thanks for stopping by, feel free to look around
 ### Connect with me:
 
 - tootegozy@gmail.com
-- [<img align="left" alt="LinkedIn" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/1024px-LinkedIn_Logo_2013.svg.png">](https://www.linkedin.com/in/toot-egozy-b1971920b/)
+- [<img align="left" alt="LinkedIn" width="70px" src="https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:e7a55800-0e61-468d-9c5a-78a5ba50321c/original/as/brandg-linkedinlogo-hero-logo-dsk-v01-png-original.png">](https://www.linkedin.com/in/toot-egozy-b1971920b/)
 
 ---
 
