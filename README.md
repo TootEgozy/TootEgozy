@@ -71,8 +71,6 @@ Thanks for stopping by, feel free to look around
 
 [<img align="left" alt="ChaiJS" width="20px" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4">](https://www.chaijs.com/)
 
-[<img align="left" alt="GitLab" width="20px" src="https://about.gitlab.com/images/press/press-kit-icon.svg">](https://about.gitlab.com/)
-
 
 <br />
 <br />
